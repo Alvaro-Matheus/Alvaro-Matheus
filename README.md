@@ -1,5 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&left=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alvaro;I'm+22+years+old;I'm+from+Brazil;I'm+graduated+in+Systems+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+MY+NAME+is+Álvaro+Matheus;I'm+22+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 
 <h2 align="left">Skills</h2>
@@ -58,3 +59,13 @@
 </div>
 
 ###
+
+<h2 align="center">Contacts</h2>
+
+###
+
+<div align="center">  
+  <a href="https://wa.me/qr/SFUK4O5T3TLSB1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/alvaro_theus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:alvaro.m.alves10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
