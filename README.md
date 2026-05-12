@@ -2,7 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+MY+NAME+is+Álvaro+Matheus;I'm+22+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
+<div>
+<h2 align="left">Featured Project</h2>
 
+<a href="https://concessionaria-nextjs.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_LIVE_PROJECT_WEBGARAGE-0f172a?style=for-the-badge&logo=vercel&logoColor=06b6d4"/>
+</a>
+
+</div>
 <h2 align="left">Skills</h2>
 
 <div align="left">
