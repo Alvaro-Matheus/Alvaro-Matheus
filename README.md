@@ -9,7 +9,12 @@
   <img src="https://img.shields.io/badge/🌐_LIVE_PROJECT_WEBGARAGE-0f172a?style=for-the-badge&logo=vercel&logoColor=06b6d4"/>
 </a>
 
+<a href="https://github.com/alvarotheuzin" target="_blank">
+  <img src="https://img.shields.io/badge/📚_STUDIES_GITHUB-06b6d4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
+
 <h2 align="left">Skills</h2>
 
 <div align="left">
